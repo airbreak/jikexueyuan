@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<bookstore>
+  <book category="web">
+    <title>JavasScript高级程序设计</title> 
+    <author>Nicholas C.Zakas</author> 
+    <year>2015</year> 
+    <price>60.00</price> 
+  </book>
+  <book category="web">
+    <title>Angular JS 权威指南</title> 
+    <author>Ari Lerner</author> 
+    <year>2015</year> 
+    <price>49.99</price> 
+  </book>
+  <book category="novel">
+    <title>活着</title> 
+    <author>余华</author> 
+    <year>2010</year> 
+    <price>29.95</price> 
+  </book>
+  <book category="web">
+    <title>JavasScript高级程序设计</title> 
+    <author>Nicholas C.Zakas</author> 
+    <year>2015</year> 
+    <price>60.00</price> 
+  </book>
+  <book category="web">
+    <title>Angular JS 权威指南</title> 
+    <author>Ari Lerner</author> 
+    <year>2015</year> 
+    <price>49.99</price> 
+  </book>
+  <book category="novel">
+    <title>活着</title> 
+    <author>余华</author> 
+    <year>2010</year> 
+    <price>29.95</price> 
+  </book>
+</bookstore>
